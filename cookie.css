@@ -1,0 +1,11 @@
+body{
+  background-color: chocolate;
+}
+img{
+  float: left;
+}
+.container{
+  display: inline-block;
+  
+ 
+}
